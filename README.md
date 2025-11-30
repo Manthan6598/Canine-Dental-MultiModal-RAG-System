@@ -1,4 +1,4 @@
-A production-grade, modular, multimodal Retrieval-Augmented Generation (RAG) system for veterinary dentistry.
+
 
 Overview
 
