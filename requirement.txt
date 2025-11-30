@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+pinecone
+gradio
+pillow
