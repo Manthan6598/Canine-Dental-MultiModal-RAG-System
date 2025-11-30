@@ -1,0 +1,16 @@
+transformers
+accelerate
+torch
+sentence-transformers
+pinecone
+unstructured[all-docs]
+pydantic
+lxml
+chromadb
+tiktoken
+opencv-python
+pillow
+poppler-utils
+tesseract
+gradio==4.37.2
+bitsandbytes
